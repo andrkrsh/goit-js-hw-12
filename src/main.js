@@ -3,7 +3,6 @@ import { fetchImg } from './js/pixabay-api.js';
 import { renderCard, showErrorMessage, showLoadingIndicator, hideLoadingIndicator, clearGallery, showLoadMoreBtn, hideLoadMoreBtn, showLoadingIndicatorBtn, hideLoadingIndicatorBtn } from './js/render-functions.js';
 
 
-ф
 
 const searchForm = document.querySelector("form");
 const gallery = document.querySelector('.gallery');
