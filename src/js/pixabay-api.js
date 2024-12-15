@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from 'axios';
 
 const API_KEY = '47661758-276cd75f39684298817518b5c';
 const BASE_URL = 'https://pixabay.com/api/';
