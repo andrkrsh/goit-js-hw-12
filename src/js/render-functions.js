@@ -5,7 +5,7 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 
 const loaderBtn = document.querySelector('.loader-btn');
 const loadMoreBtn = document.querySelector('.load-more');
-
+let lightbox;
 
 export function renderCard(hits, gallery) {
 
